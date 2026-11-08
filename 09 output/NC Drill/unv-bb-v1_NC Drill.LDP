@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: C:\_git\Altium\projects\kria-dev\unv-bb-v1\04 pcb\unv-bb-v1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=unv-bb-v1_nc drill-roundholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=unv-bb-v1_nc drill-slotholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=unv-bb-v1_nc drill-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12,gbl
+LayersSetName=Top_L2 (GND)_Blind_Vias|DrillFile=unv-bb-v1_nc drill-roundholes-plated.tx3|DrillLayers=gtl,g1
+LayersSetName=L2 (GND)_L3_Buried_Vias|DrillFile=unv-bb-v1_nc drill-roundholes-plated.tx4|DrillLayers=g1,g2

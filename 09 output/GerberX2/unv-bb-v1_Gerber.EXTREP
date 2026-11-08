@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: unv-bb-v1_Gerber.GBR   07.11.2026  22:48:21
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top                                     
+.gbr                L2 (GND)                                
+.gbr                L3                                      
+.gbr                L4 (GND                                 
+.gbr                L5                                      
+.gbr                L6 (GND)                                
+.gbr                L7 (PWR)                                
+.gbr                L8  (PWR)                               
+.gbr                L9 (GND)                                
+.gbr                L10                                     
+.gbr                L11 (GND)                               
+.gbr                L12                                     
+.gbr                L13 (GND)                               
+.gbr                Bottom                                  
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Capping                                 
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Micro Via drill file                    
+.gbr                Micro Via drill file                    
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+------------------------------------------------------------------------------------------

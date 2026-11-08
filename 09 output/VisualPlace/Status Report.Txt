@@ -1,0 +1,10 @@
+Output: Bill of Materials (Visual Place)
+Type  : BOM
+From  : Variant [Base] of Project [unv-bb-v1.PrjPcb]
+   Generated File[Bill of Materials (Visual Place).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:49:20 On 05.11.2026

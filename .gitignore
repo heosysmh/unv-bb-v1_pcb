@@ -1,0 +1,14 @@
+## Exclude Backups and auto generated files
+__Previews/
+History/
+Project Logs*/
+Project Outputs*/
+
+## Exclude specific output
+09 Output/*.*
+!09 Output/*.OutJob
+09 Output/Archive/
+09 Output/Step/
+
+*.Cam
+
