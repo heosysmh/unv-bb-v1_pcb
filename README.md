@@ -1,5 +1,11 @@
 # Universal Baseboard
 
+Copyright 2026 Matthias Häfner
+
+**License:** Non-commercial use under PolyForm Noncommercial 1.0.0 | Commercial manufacturing & distribution requires a separate license (details below).
+
+## Description
+
 Prototyping Platform for AMD Kria K24/K26 and Sundance SoM6/SoM7
 
 The Universal Baseboard is a flexible prototyping platform for AMD Kria K24/K26 and Sundance SoM6/SoM7 SoMs. It enables maximum I/O flexibility by extensive, configurable I/O muxing for the transceiver ports as well as for the "conventional" I/O signals. 
@@ -48,12 +54,12 @@ Planned extension boards:
 If you are interested in contributing to the project, (e.g. by extension-board or firmware development) please contact me via support@heosys.de.
 Even though the baseboard has been designed with Altium Designer (and will remain in that ecosystem), Kicad designs for extensions are welcome, too. 
 
-## License
-Copyright 2026 Matthias Häfner
+## Licensing--commercial-manufacturing
+This hardware project (schematics, PCB layout, BOM, and documentation) is provided under a **Dual-Licensing Model**:
 
-This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
-You may redistribute and modify this source and make products using it under the terms of the CERN-OHL-S v2 (https://cern.ch/cern-ohl).
-This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
+1. **Non-Commercial Use:** All design files in this repository are licensed under the **PolyForm Noncommercial License 1.0.0**. The full license text is located in `01 license/LICENSE-POLYFORM-NC-1.0.0.txt`. You are free to inspect, modify, and manufacture this design for personal, educational, or non-commercial research purposes.
+2. **Commercial Manufacturing & Distribution:** Commercial use—including manufacturing, assembling, or selling this board or derivative products, as well as commercial internal use—is **not permitted** under the PolyForm Noncommercial License. To obtain a commercial license or discuss manufacturing partnerships, please contact Matthias Häfner (haefner@heosys.de).
+
 
 ## Project status
 First prototypes build for extensive evalutation and testing
